@@ -247,12 +247,11 @@ nav{
     padding-block-start: 100px;
 }
 /* Sale Section Start */
+
 .sale{
     height: 600px;
-    display: inline-block;
-    margin-top: 50px;
-    margin-left: 130px;
     width: 1100px;
+    margin: auto;
 }
 .sale-left{
     height: 450px;
@@ -357,3 +356,29 @@ nav{
     height: 600px;
     margin-top: -100px;
 }
+/* Footer Section Start */
+.footer{
+    background-color: #fff;
+    height: 400px;
+    width: 1200px;
+    margin: auto;
+}
+.footer-col{
+    height: 400px;
+    width: 290px;
+    margin: auto;
+    float: left;
+}
+.footer-col>h1{
+    padding-block: 40px;
+    font-weight: 600;
+}
+.footer-col>a{
+    display:inline;
+    padding-inline-end: 110px;
+    padding-block-end: 20px;
+    font-weight: 500;
+    text-align: left;
+}
+
+/* Footer Section End */

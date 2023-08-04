@@ -1,0 +1,64 @@
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+.row{
+    max-width: 1000px;
+}
+}
+/* For Tablet View */
+@media screen and (min-device-width: 768px)
+    and (max-device-width: 1024px) {
+    .row {
+        width: 800px;
+        display: inline;
+        margin: auto;
+    }
+    .logo{
+        display:block;
+    }
+    .nav-menu{
+        display:block;
+        width: 60%;
+        height: 90px;
+        float: left;
+    }
+    .logIn{
+        float: left;
+    }
+
+    .property>.half{
+        width: 100%;
+        margin-left:150px ;
+    }
+    .property>.half-2{
+        width: 27%;
+        margin: 0;
+        padding-block-start: 20px;
+    }
+    .property-cards{
+        display: block;
+        width: 600px;
+        height: auto;
+        float: left;
+    }
+    .property-card{
+        width: 500px;
+        margin-block: 30px;
+    }
+    .sale{
+        height: 1400px;
+    }
+
+    .sale-left{
+        width: 100%;
+        padding-right: 400px;
+    }
+    .count{
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .footer-col{
+        width: 500px;
+        padding-right: 200px;
+    }
+}
