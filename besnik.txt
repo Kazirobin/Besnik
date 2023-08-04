@@ -1,0 +1,127 @@
+primeryText{
+color: ;
+background-color: ;
+}
+secunderyText{
+color: ;
+background-color: ;
+}
+
+nav
+
+Besnik. Home Fratures Service Listed Contact Sign up Register
+
+<!-- Header Section Start -->
+color: #020032;
+background-color:#E7F0FE ;
+
+Welcome to Besnik Agency
+
+Discover a place you'll love to live.
+
+Get the best real estate deals first, before they hit the mass market! hot foreclosure deals with one simple search
+
+More About Us
+
+<!-- Header Section End -->
+
+<!-- Rating Section Start -->
+Besnik.
+More than 45,000+ companies trust besnik
+
+5 Star Ratings (2k+ Review)
+
+meundies slack amazon woocommerce sitepoint
+<!-- Rating Section End -->
+
+<!-- Works Section Start -->
+color:  #030033 ;
+background-color: #FFFFFF ;
+
+How its works ?
+
+Everything you need to know when you're looking to buy,
+rent, or sell - all in one place.
+
+Buyer Guides
+How to buy
+
+Renter Guides
+How to rent
+
+Seller Guides
+How to sell
+
+howTo-bg:  #46A9FB ;
+Sell Full Guidelines
+
+btn-bg: #111B4A  ; 
+<!-- Works Section End -->
+
+<!-- Feature Section Start-->
+
+Featured Properties
+Everything you need to know when you're looking
+View All Properties
+
+$35000
+8502 Preston Rd. Inglewood, Maine 98280
+5 Beds
+2 both
+2000 Sqft
+<!-- Feature Section End-->
+
+<!-- Sale Section Start-->
+
+You've found a neighborhood you love.
+
+When you own a home, you're 
+committing to living in one location for a while. In a recent Trulia survey, we 
+found that five out of six respondents
+said finding the right neighborhood
+
+2,500
+Homes For Sale
+
+5,000+
+Homes Recently Sold
+
+170+
+Price Reduced
+
+<!-- Sale Section End-->
+
+<!-- Featured Section Start-->
+
+Featured Properties
+
+Everything you need to know when you're looking
+
+Get Started Now
+
+<!-- Featured Section End-->
+
+<!-- Footer Section Start-->
+
+Product Listing Property Agents Blog
+
+Resources Our Homes Member Stories Video Free trial
+
+Company Patberships Terms of use Privacy Sitemap
+
+Get in Touch You'll find your next home. in any style you prefer.
+
+Besnik. Copyright 2020.com, All rights reserved
+
+<!-- Footer Section End-->
+
+
+
+
+
+
+
+
+
+
+
